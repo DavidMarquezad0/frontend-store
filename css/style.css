@@ -177,7 +177,7 @@ h3 {
     background-image: url(../img/grafico2.jpg);
 }
 
-@media (width >=768px) {
+@media (width >= 768px) {
     .node--graph {
         grid-row: 5 / 6;
         /*ubicacion de la imagen en fila */
@@ -196,7 +196,7 @@ h3 {
     grid-row: 1 / 2;
 }
 
-@media (width >=768px) {
+@media (width >= 768px) {
     .us {
         column-gap: 2rem;
     }
@@ -229,7 +229,7 @@ h3 {
 
 /* pagina del producto */
 
-@media (width >=768px) {
+@media (width >= 768px) {
 .t-shirt {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
